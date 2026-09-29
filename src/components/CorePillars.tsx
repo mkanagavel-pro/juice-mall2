@@ -15,7 +15,7 @@ export const CorePillars: React.FC<CorePillarsProps> = ({ onOpenEnquiry }) => {
       cta: "Explore Menu",
       href: "#menu",
       isAnchor: true,
-      image: "/src/assets/images/hero_juice_spread_1790665542301.jpg",
+      image: "/images/hero_juice_spread_1790665542301.jpg",
       icon: Utensils,
       color: "from-amber-500/20 to-amber-600/10 border-amber-500/30 text-amber-400"
     },
@@ -27,7 +27,7 @@ export const CorePillars: React.FC<CorePillarsProps> = ({ onOpenEnquiry }) => {
       cta: "Explore Cakes",
       href: "#cakes",
       isAnchor: true,
-      image: "/src/assets/images/celebration_cakes_1790665570904.jpg",
+      image: "/images/celebration_cakes_1790665570904.jpg",
       icon: Cake,
       color: "from-rose-500/20 to-rose-600/10 border-rose-500/30 text-rose-400"
     },
@@ -39,7 +39,7 @@ export const CorePillars: React.FC<CorePillarsProps> = ({ onOpenEnquiry }) => {
       cta: "Enquire for Party Hall",
       href: "#party-hall",
       isAnchor: true,
-      image: "/src/assets/images/party_hall_space_1790665583341.jpg",
+      image: "/images/party_hall_space_1790665583341.jpg",
       icon: PartyPopper,
       color: "from-purple-500/20 to-purple-600/10 border-purple-500/30 text-purple-400"
     }

@@ -100,7 +100,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenEnquiry }) => {
               {/* Image Frame with Overlay Scrim */}
               <div className="relative aspect-[16/11] rounded-2xl overflow-hidden bg-zinc-900">
                 <img
-                  src="/src/assets/images/hero_juice_spread_1790665542301.jpg"
+                  src="/images/hero_juice_spread_1790665542301.jpg"
                   alt="Juice Maall fresh juices, food spread, falooda and cakes"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out"
                   loading="eager"

@@ -65,7 +65,7 @@ export const MENU_ITEMS: MenuItem[] = [
     priceNote: "Price available on enquiry",
     isVeg: false,
     isPopular: true,
-    image: "/src/assets/images/hero_juice_spread_1790665542301.jpg"
+    image: "/images/hero_juice_spread_1790665542301.jpg"
   },
   {
     id: "m-2",
@@ -75,7 +75,7 @@ export const MENU_ITEMS: MenuItem[] = [
     priceNote: "Price available on enquiry",
     isVeg: true,
     isPopular: true,
-    image: "/src/assets/images/hero_juice_spread_1790665542301.jpg"
+    image: "/images/hero_juice_spread_1790665542301.jpg"
   },
   {
     id: "m-3",
@@ -85,7 +85,7 @@ export const MENU_ITEMS: MenuItem[] = [
     priceNote: "Price available on enquiry",
     isVeg: true,
     isPopular: true,
-    image: "/src/assets/images/hero_juice_spread_1790665542301.jpg"
+    image: "/images/hero_juice_spread_1790665542301.jpg"
   },
   {
     id: "m-4",
@@ -95,7 +95,7 @@ export const MENU_ITEMS: MenuItem[] = [
     priceNote: "Price available on enquiry",
     isVeg: true,
     isPopular: true,
-    image: "/src/assets/images/hero_juice_spread_1790665542301.jpg"
+    image: "/images/hero_juice_spread_1790665542301.jpg"
   },
   {
     id: "m-5",
@@ -105,7 +105,7 @@ export const MENU_ITEMS: MenuItem[] = [
     priceNote: "Price available on enquiry",
     isVeg: true,
     isPopular: true,
-    image: "/src/assets/images/celebration_cakes_1790665570904.jpg"
+    image: "/images/celebration_cakes_1790665570904.jpg"
   },
   {
     id: "m-6",
@@ -115,7 +115,7 @@ export const MENU_ITEMS: MenuItem[] = [
     priceNote: "Price available on enquiry",
     isVeg: true,
     isPopular: true,
-    image: "/src/assets/images/hero_juice_spread_1790665542301.jpg"
+    image: "/images/hero_juice_spread_1790665542301.jpg"
   },
   {
     id: "m-7",
@@ -124,7 +124,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Chilled tropical beverage crafted with fresh tender coconut water, sweet coconut malai pulp, and creamy dairy blend.",
     priceNote: "Price available on enquiry",
     isVeg: true,
-    image: "/src/assets/images/hero_juice_spread_1790665542301.jpg"
+    image: "/images/hero_juice_spread_1790665542301.jpg"
   },
   {
     id: "m-8",
@@ -133,7 +133,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "100% natural, freshly pressed seasonal fruit extracts served ice-chilled with zero artificial flavours or preservatives.",
     priceNote: "Price available on enquiry",
     isVeg: true,
-    image: "/src/assets/images/hero_juice_spread_1790665542301.jpg"
+    image: "/images/hero_juice_spread_1790665542301.jpg"
   },
   {
     id: "m-9",
@@ -142,7 +142,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Tandoori marinated paneer cubes, roasted capsicum, caramelized red onion, and generous cheese on herb crust.",
     priceNote: "Price available on enquiry",
     isVeg: true,
-    image: "/src/assets/images/hero_juice_spread_1790665542301.jpg"
+    image: "/images/hero_juice_spread_1790665542301.jpg"
   },
   {
     id: "m-10",
@@ -151,7 +151,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Oven-toasted French baguette slices infused with herb garlic butter and topped with bubbling melted mozzarella.",
     priceNote: "Price available on enquiry",
     isVeg: true,
-    image: "/src/assets/images/hero_juice_spread_1790665542301.jpg"
+    image: "/images/hero_juice_spread_1790665542301.jpg"
   },
   {
     id: "m-11",
@@ -160,7 +160,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Warm, fudgy dark chocolate walnut brownie accompanied by a scoop of vanilla ice cream and hot chocolate fudge drizzle.",
     priceNote: "Price available on enquiry",
     isVeg: true,
-    image: "/src/assets/images/celebration_cakes_1790665570904.jpg"
+    image: "/images/celebration_cakes_1790665570904.jpg"
   },
   {
     id: "m-12",
@@ -169,7 +169,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: "Decadent pure chocolate ganache cake crafted for celebrations with silky chocolate glaze and chocolate shavings.",
     priceNote: "Price available on enquiry",
     isVeg: true,
-    image: "/src/assets/images/celebration_cakes_1790665570904.jpg"
+    image: "/images/celebration_cakes_1790665570904.jpg"
   }
 ];
 
@@ -180,7 +180,7 @@ export const CAKE_SHOWCASE = [
     category: "Birthday Cakes",
     description: "Light chocolate sponge layered with sweet kirsch-style cherry compote and chantilly whipped cream.",
     badge: "Most Requested",
-    image: "/src/assets/images/celebration_cakes_1790665570904.jpg"
+    image: "/images/celebration_cakes_1790665570904.jpg"
   },
   {
     id: "c-2",
@@ -188,7 +188,7 @@ export const CAKE_SHOWCASE = [
     category: "Chocolate Cakes",
     description: "Dense dark chocolate cake filled with smooth Belgian cocoa ganache and a mirror-like chocolate drip finish.",
     badge: "Signature",
-    image: "/src/assets/images/celebration_cakes_1790665570904.jpg"
+    image: "/images/celebration_cakes_1790665570904.jpg"
   },
   {
     id: "c-3",
@@ -196,7 +196,7 @@ export const CAKE_SHOWCASE = [
     category: "Celebration Cakes",
     description: "Vibrant crimson cocoa cake paired with velvety smooth cream cheese frosting, ideal for romantic anniversaries.",
     badge: "Anniversary Favorite",
-    image: "/src/assets/images/celebration_cakes_1790665570904.jpg"
+    image: "/images/celebration_cakes_1790665570904.jpg"
   },
   {
     id: "c-4",
@@ -204,7 +204,7 @@ export const CAKE_SHOWCASE = [
     category: "Custom Cakes",
     description: "Multi-tiered showpiece cake customized for grand 1st birthdays, jubilees, and family festivities in Salem.",
     badge: "Bespoke Design",
-    image: "/src/assets/images/celebration_cakes_1790665570904.jpg"
+    image: "/images/celebration_cakes_1790665570904.jpg"
   }
 ];
 
@@ -240,28 +240,28 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: "g-1",
     title: "Signature Juices & Food Spread",
     category: "Food",
-    imageUrl: "/src/assets/images/hero_juice_spread_1790665542301.jpg",
+    imageUrl: "/images/hero_juice_spread_1790665542301.jpg",
     aspect: "col-span-12 md:col-span-8 aspect-[16/10]"
   },
   {
     id: "g-2",
     title: "Celebration Cakes Showcase",
     category: "Cakes",
-    imageUrl: "/src/assets/images/celebration_cakes_1790665570904.jpg",
+    imageUrl: "/images/celebration_cakes_1790665570904.jpg",
     aspect: "col-span-12 md:col-span-4 aspect-[4/3]"
   },
   {
     id: "g-3",
     title: "Welcoming Cafe Ambience",
     category: "Ambience",
-    imageUrl: "/src/assets/images/cafe_ambience_1790665556821.jpg",
+    imageUrl: "/images/cafe_ambience_1790665556821.jpg",
     aspect: "col-span-12 md:col-span-4 aspect-[4/3]"
   },
   {
     id: "g-4",
     title: "Celebration Party Hall",
     category: "Celebrations",
-    imageUrl: "/src/assets/images/party_hall_space_1790665583341.jpg",
+    imageUrl: "/images/party_hall_space_1790665583341.jpg",
     aspect: "col-span-12 md:col-span-8 aspect-[16/10]"
   }
 ];

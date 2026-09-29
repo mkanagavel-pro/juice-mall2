@@ -13,7 +13,7 @@ export const AboutSection: React.FC = () => {
             <div className="relative rounded-3xl overflow-hidden glass-card p-2 md:p-3 shadow-2xl group">
               <div className="relative aspect-[4/3] rounded-2xl overflow-hidden bg-zinc-900">
                 <img
-                  src="/src/assets/images/cafe_ambience_1790665556821.jpg"
+                  src="/images/cafe_ambience_1790665556821.jpg"
                   alt="Juice Maall family dining cafe ambience in Gugai, Salem"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out"
                   loading="lazy"

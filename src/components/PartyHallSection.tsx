@@ -46,7 +46,7 @@ export const PartyHallSection: React.FC<PartyHallSectionProps> = ({ onOpenEnquir
             <div className="relative rounded-2xl overflow-hidden glass-card p-2 group shadow-xl">
               <div className="relative aspect-[16/10] rounded-xl overflow-hidden bg-zinc-900">
                 <img
-                  src="/src/assets/images/party_hall_space_1790665583341.jpg"
+                  src="/images/party_hall_space_1790665583341.jpg"
                   alt="Juice Maall celebration party hall with fairy lights and festive seating"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out"
                   loading="lazy"
